@@ -1,1 +1,0 @@
-# AIFactory_FruitQC
